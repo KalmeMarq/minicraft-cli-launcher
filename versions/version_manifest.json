@@ -1,0 +1,2415 @@
+{
+  "version": 4,
+  "versions": [
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.2.1-dev1",
+      "version_type": "beta",
+      "releaseTime": "0000-00-00T00:00:00Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.2.1-dev1/minicraft-plus-2.2.1-dev1.jar",
+        "size": 0
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.2.0",
+      "version_type": "release",
+      "releaseTime": "0000-00-00T00:00:00Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.2.0/minicraft-plus-2.2.0.jar",
+        "size": 0
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.2.0-dev7",
+      "version_type": "beta",
+      "releaseTime": "0000-00-00T00:00:00Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.2.0-dev7/minicraft-plus-2.2.0-dev7.jar",
+        "size": 0
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.2.0-dev6",
+      "version_type": "beta",
+      "releaseTime": "2024-03-11T18:14:35Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.2.0-dev6/minicraft-plus-2.2.0-dev6.jar",
+        "size": 9349951
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.2.0-dev5",
+      "version_type": "beta",
+      "releaseTime": "2024-01-11T00:46:00Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.2.0-dev5/minicraft-plus-2.2.0-dev5.jar",
+        "size": 9332243
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.2.0-dev4",
+      "version_type": "beta",
+      "releaseTime": "2024-01-11T00:39:23Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.2.0-dev4/minicraft-plus-2.2.0-dev4.jar",
+        "size": 9338715
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.2.0-dev3",
+      "version_type": "beta",
+      "releaseTime": "2023-04-02T14:38:27Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.2.0-dev3/minicraft_plus-2.2.0-dev3.jar",
+        "size": 9215943
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.2.0-dev2",
+      "version_type": "beta",
+      "releaseTime": "2022-12-19T22:29:32Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.2.0-dev2/minicraft_plus-2.2.0-dev2.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.2.0-dev2.jar",
+        "size": 4037777
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.2.0-dev1",
+      "version_type": "beta",
+      "releaseTime": "2022-09-26T14:41:54Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.2.0-dev1/minicraft_plus-2.2.0-dev1.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.2.0-dev1.jar",
+        "size": 3968360
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.1.3",
+      "version_type": "release",
+      "releaseTime": "2022-06-18T23:23:36Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.1.3/minicraft_plus-2.1.3.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.1.3.jar",
+        "size": 4685732
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.1.2",
+      "version_type": "release",
+      "releaseTime": "2022-06-05T17:19:36Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.1.2/minicraft_plus-2.1.2.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.1.2.jar",
+        "size": 3889739
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.1.1",
+      "version_type": "release",
+      "releaseTime": "2022-06-02T18:32:10Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.1.1/minicraft_plus-2.1.1.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.1.1.jar",
+        "size": 3889668
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.1.0",
+      "version_type": "release",
+      "releaseTime": "2022-05-25T18:44:32Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.1.0/minicraft_plus-2.1.0.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.1.0.jar",
+        "size": 3889793
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.1.0-dev3",
+      "version_type": "beta",
+      "releaseTime": "2022-04-18T17:52:23Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.1.0-dev3/minicraft_plus-2.1.0-dev3.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.1.0-dev3.jar",
+        "size": 3857793
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.1.0-dev2",
+      "version_type": "beta",
+      "releaseTime": "2022-02-20T19:30:09Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.1.0-dev2/minicraft_plus-2.1.0-dev2.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.1.0-dev2.jar",
+        "size": 3661155
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.1.0-dev1",
+      "version_type": "beta",
+      "releaseTime": "2021-12-07T13:43:01Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.1.0-dev1/minicraft_plus-2.1.0-dev1.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.1.0-dev1.jar",
+        "size": 3662024
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.7",
+      "version_type": "release",
+      "releaseTime": "2021-09-12T13:01:18Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.7/minicraft_plus-2.0.7.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.7.jar",
+        "size": 4685732
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.7-dev4",
+      "version_type": "beta",
+      "releaseTime": "2021-08-20T02:14:44Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.7-dev4/minicraft_plus_2.0.7-dev4.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.7-dev4.jar",
+        "size": 4135162
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.7-dev3",
+      "version_type": "beta",
+      "releaseTime": "2021-05-25T11:21:23Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.7-dev3/minicraft_plus_2.0.7-dev3.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.7-dev3.jar",
+        "size": 4122604
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.7-dev2",
+      "version_type": "beta",
+      "releaseTime": "2021-04-10T18:36:10Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.7-dev2/minicraft_plus_2.0.7-dev2.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.7-dev2.jar",
+        "size": 4118289
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.7-dev1",
+      "version_type": "beta",
+      "releaseTime": "2021-02-06T22:56:10Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.7-dev1/minicraft_plus_2.0.7-dev1.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.7-dev1.jar",
+        "size": 3636858
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.6",
+      "version_type": "release",
+      "releaseTime": "2020-01-27T02:05:25Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.6/minicraft_plus_2.0.6_official.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.6.jar",
+        "size": 3631416
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.6-dev4",
+      "version_type": "beta",
+      "releaseTime": "2019-10-27T13:22:23Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.6-dev4/minicraft_plus_2.0.6-dev4.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.6-dev4.jar",
+        "size": 3623615
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.6-dev3",
+      "version_type": "beta",
+      "releaseTime": "2019-07-22T03:28:16Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.6-dev3/minicraft_plus_2.0.6-dev3.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.6-dev3.jar",
+        "size": 3584916
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.6-dev2",
+      "version_type": "beta",
+      "releaseTime": "2019-06-26T13:47:24Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.6-dev2/minicraft_plus_2.0.6-dev2.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.6-dev2.jar",
+        "size": 3583358
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.6-dev1",
+      "version_type": "beta",
+      "releaseTime": "2019-06-19T13:40:46Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.6-dev1/minicraft_plus_2.0.6-dev1.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.6-dev1.jar",
+        "size": 3108863
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.5",
+      "version_type": "release",
+      "releaseTime": "2019-06-07T14:57:38Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.5/minicraft_plus_2.0.5_official.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.5.jar",
+        "size": 3103521
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.5-dev6",
+      "version_type": "beta",
+      "releaseTime": "2019-04-25T20:14:12Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.5-dev6/minicraft_plus_2.0.5-dev6.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.5-dev6.jar",
+        "size": 3102631
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.5-dev5",
+      "version_type": "beta",
+      "releaseTime": "2019-04-20T04:29:49Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.5-dev5/minicraft_plus_2.0.5-dev5.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.5-dev5.jar",
+        "size": 3102979
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.5-dev4",
+      "version_type": "beta",
+      "releaseTime": "2019-03-19T02:59:17Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.5-dev4/minicraft_plus_2.0.5-dev4.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.5-dev4.jar",
+        "size": 3102834
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.5-dev3",
+      "version_type": "beta",
+      "releaseTime": "2018-12-30T03:21:04Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.5-dev3/minicraft_plus_2.0.5-dev3.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.5-dev3.jar",
+        "size": 3102751
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.5-dev2",
+      "version_type": "beta",
+      "releaseTime": "2018-11-25T21:32:48Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.5-dev2/minicraft_plus_2.0.5-dev2.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.5-dev2.jar",
+        "size": 3090174
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.5-dev1",
+      "version_type": "beta",
+      "releaseTime": "2018-10-20T15:08:02Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.5-dev1/minicraft_plus_2.0.5-dev1.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.5-dev1.jar",
+        "size": 3103259
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.4",
+      "version_type": "beta",
+      "releaseTime": "2018-06-15T22:35:05Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.4/minicraft_plus_2.0.4_official.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.4.jar",
+        "size": 3105850
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.4-dev9",
+      "version_type": "beta",
+      "releaseTime": "2018-06-12T04:38:29Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.4-dev1/minicraft_plus_2.0.4-dev9.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.4-dev9.jar",
+        "size": 3089176
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.4-dev8",
+      "version_type": "beta",
+      "releaseTime": "2018-06-12T00:35:08Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.4-dev1/minicraft_plus_2.0.4-dev8.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.4-dev8.jar",
+        "size": 3088068
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.4-dev7",
+      "version_type": "beta",
+      "releaseTime": "2018-06-09T05:06:31Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.4-dev1/minicraft_plus_2.0.4-dev7.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.4-dev7.jar",
+        "size": 3087237
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.4-dev6",
+      "version_type": "beta",
+      "releaseTime": "2018-06-07T20:32:48Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.4-dev1/minicraft_plus_2.0.4-dev6.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.4-dev6.jar",
+        "size": 3081069
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.4-dev5",
+      "version_type": "beta",
+      "releaseTime": "2018-01-28T05:48:14Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.4-dev1/minicraft_plus_2.0.4-dev5.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.4-dev5.jar",
+        "size": 3077867
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.4-dev4",
+      "version_type": "beta",
+      "releaseTime": "2018-01-04T15:00:26Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.4-dev1/minicraft_plus_2.0.4-dev4.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.4-dev4.jar",
+        "size": 3077607
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.4-dev3",
+      "version_type": "beta",
+      "releaseTime": "2017-11-09T01:49:13Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.4-dev1/minicraft_plus_2.0.4-dev3.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.4-dev3.jar",
+        "size": 3075710
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.4-dev2",
+      "version_type": "beta",
+      "releaseTime": "2017-11-05T04:32:36Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.4-dev1/minicraft_plus_2.0.4-dev2.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.4-dev2.jar",
+        "size": 3073786
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.4-dev1",
+      "version_type": "beta",
+      "releaseTime": "2017-10-19T03:09:57Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.4-dev1/minicraft_plus_2.0.4-dev1.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.4-dev1.jar",
+        "size": 3032981
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.3",
+      "version_type": "release",
+      "releaseTime": "2017-09-21T20:34:58Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.3/minicraft_plus_2.0.3_official.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.3.jar",
+        "size": 2921358
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.3-dev6",
+      "version_type": "beta",
+      "releaseTime": "2017-09-18T01:31:38Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.3-dev6/minicraft_plus_2.0.3-dev6.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.3-dev6.jar",
+        "size": 2921374
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.3-dev5",
+      "version_type": "beta",
+      "releaseTime": "2017-09-12T00:32:25Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.3-dev5/minicraft_plus_2.0.3-dev5.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.3-dev5.jar",
+        "size": 2919928
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.3-dev4",
+      "version_type": "beta",
+      "releaseTime": "2017-09-10T22:53:37Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.3-dev4/minicraft_plus_2.0.3-dev4.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.3-dev4.jar",
+        "size": 2919217
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.3-dev3",
+      "version_type": "beta",
+      "releaseTime": "2017-07-29T03:08:46Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.3-dev3/minicraft_plus_2.0.3-dev3.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.3-dev3.jar",
+        "size": 822854
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.3-dev2",
+      "version_type": "beta",
+      "releaseTime": "2017-07-26T21:03:44Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.3-dev2/minicraft_plus_2.0.3-dev2.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.3-dev2.jar",
+        "size": 816608
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.3-dev1",
+      "version_type": "beta",
+      "releaseTime": "2017-07-22T05:38:32Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.3-dev1/minicraft_plus_2.0.3-dev1.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.3-dev1.jar",
+        "size": 811957
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.2",
+      "version_type": "beta",
+      "releaseTime": "2017-07-20T03:31:01Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.2/minicraft_plus_2.0.2_official.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.2.jar",
+        "size": 792983
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.2-dev3",
+      "version_type": "beta",
+      "releaseTime": "2017-07-20T03:45:37Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.2-dev3/minicraft_plus_2.0.2-dev3.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.2-dev3.jar",
+        "size": 792931
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.2-dev2",
+      "version_type": "beta",
+      "releaseTime": "2017-07-20T03:45:05Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.2-dev2/minicraft_plus_2.0.2-dev2.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.2-dev2.jar",
+        "size": 790717
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.2-dev1",
+      "version_type": "beta",
+      "releaseTime": "2017-07-13T05:21:02Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.2-dev1/minicraft_plus_2.0.2-dev1.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.2-dev1.jar",
+        "size": 790085
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.1",
+      "version_type": "release",
+      "releaseTime": "2017-07-09T23:36:51Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.1/minicraft_plus_2.0.1.official.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.1.jar",
+        "size": 791481
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.1-dev9",
+      "version_type": "beta",
+      "releaseTime": "2017-07-10T01:05:29Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.1-dev9.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.1-dev9.jar",
+        "size": 790124
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.1-dev8",
+      "version_type": "beta",
+      "releaseTime": "2017-07-10T01:05:37Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.1-dev8.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.1-dev8.jar",
+        "size": 786204
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.1-dev7",
+      "version_type": "beta",
+      "releaseTime": "2017-07-10T01:05:45Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.1-dev7.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.1-dev7.jar",
+        "size": 783988
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.1-dev6",
+      "version_type": "beta",
+      "releaseTime": "2017-07-10T01:05:53Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.1-dev6.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.1-dev6.jar",
+        "size": 783951
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.1-dev5",
+      "version_type": "beta",
+      "releaseTime": "2017-07-10T01:06:03Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.1-dev5.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.1-dev5.jar",
+        "size": 780143
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.1-dev4",
+      "version_type": "beta",
+      "releaseTime": "2017-07-10T01:06:30Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.1-dev4.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.1-dev4.jar",
+        "size": 777751
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.1-dev3",
+      "version_type": "beta",
+      "releaseTime": "2017-07-10T01:06:37Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.1-dev3.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.1-dev3.jar",
+        "size": 768357
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.1-dev2",
+      "version_type": "beta",
+      "releaseTime": "2017-07-10T01:06:44Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.1-dev2.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.1-dev2.jar",
+        "size": 766645
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.1-dev1",
+      "version_type": "beta",
+      "releaseTime": "2017-07-10T01:06:48Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.1-dev1.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.1-dev1.jar",
+        "size": 741497
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.0",
+      "version_type": "release",
+      "releaseTime": "2017-07-10T01:08:14Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.0/minicraft_plus_2.0.0_official.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.0.jar",
+        "size": 740070
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.0-dev3",
+      "version_type": "beta",
+      "releaseTime": "2017-07-10T01:08:24Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.0-dev3/minicraft_plus_2.0.0-dev3.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.0-dev3.jar",
+        "size": 739936
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.0-dev2",
+      "version_type": "beta",
+      "releaseTime": "2017-07-10T01:09:01Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.0-dev2/minicraft_plus_2.0.0-dev2.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.0-dev2.jar",
+        "size": 734097
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_2.0.0-dev1",
+      "version_type": "beta",
+      "releaseTime": "2017-07-10T01:09:26Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.0-dev1/minicraft_plus_2.0.0-dev1.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.0-dev1.jar",
+        "size": 734136
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_1.9.4",
+      "version_type": "beta",
+      "releaseTime": "2017-07-09T23:53:16Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v1.9.4/minicraft_plus_1.9.4_official.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.9.4.jar",
+        "size": 730861
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_1.9.4-dev7",
+      "version_type": "beta",
+      "releaseTime": "2017-07-10T00:29:31Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v1.9.4-dev7/minicraft_plus_1.9.4-dev7.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.9.4-dev7.jar",
+        "size": 712413
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_1.9.4-dev6",
+      "version_type": "beta",
+      "releaseTime": "2017-07-10T00:30:17Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v1.9.4-dev6/minicraft_plus_1.9.4-dev6.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.9.4-dev6.jar",
+        "size": 710703
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_1.9.4-dev5",
+      "version_type": "beta",
+      "releaseTime": "2017-07-10T00:30:35Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v1.9.4-dev5/minicraft_plus_1.9.4-dev5.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.9.4-dev5.jar",
+        "size": 719187
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_1.9.4-dev4",
+      "version_type": "beta",
+      "releaseTime": "2017-07-10T00:30:47Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v1.9.4-dev4/minicraft_plus_1.9.4-dev4.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.9.4-dev4.jar",
+        "size": 715364
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_1.9.4-dev3",
+      "version_type": "beta",
+      "releaseTime": "2017-07-10T00:31:01Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v1.9.4-dev3/minicraft_plus_1.9.4-dev3.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.9.4-dev3.jar",
+        "size": 717293
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_1.9.4-dev1",
+      "version_type": "beta",
+      "releaseTime": "2017-07-10T00:31:32Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v1.9.4-dev1/minicraft_plus_1.9.4-dev1.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.9.4-dev1.jar",
+        "size": 732760
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_1.9.3",
+      "version_type": "beta",
+      "releaseTime": "2017-07-10T00:31:42Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v1.9.3/minicraft_plus_1.9.3_official.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.9.3.jar",
+        "size": 747980
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_1.9.3-dev2",
+      "version_type": "beta",
+      "releaseTime": "2017-07-10T00:32:43Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v1.9.3-dev2/minicraft_plus_1.9.3-dev2.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.9.3-dev2.jar",
+        "size": 738555
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_1.9.2",
+      "version_type": "beta",
+      "releaseTime": "2017-07-10T00:35:15Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v1.9.2/minicraft_plus_1.9.2_official.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.9.2.jar",
+        "size": 737748
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_1.9.1",
+      "version_type": "beta",
+      "releaseTime": "2017-07-10T00:15:57Z",
+      "client": {
+        "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v1.9.1/minicraft_plus_1.9.1.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.9.1.jar",
+        "size": 939666
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_1.8",
+      "version_type": "beta",
+      "releaseTime": "2013-05-20T00:00:00Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.8.jar",
+        "size": 996616
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_1.7",
+      "version_type": "beta",
+      "releaseTime": "2013-02-23T01:11:00Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.7.jar",
+        "size": 968759
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_1.6",
+      "version_type": "beta",
+      "releaseTime": "2012-07-03T00:00:00Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.6.jar",
+        "size": 929342
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_1.5",
+      "version_type": "beta",
+      "releaseTime": "2012-06-07T00:00:00Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.5.jar",
+        "size": 931228
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_1.3_test",
+      "version_type": "beta",
+      "releaseTime": "2012-01-20T19:22:00Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.3_test.jar",
+        "size": 350570
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_1.3.1_test",
+      "version_type": "beta",
+      "releaseTime": "2012-01-21T09:28:00Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.3.1_test.jar",
+        "size": 838678
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_1.2_test",
+      "version_type": "beta",
+      "releaseTime": "2012-01-01T16:44:00Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.2_test.jar",
+        "size": 650379
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_dungeon_preview",
+      "version_type": "beta",
+      "releaseTime": "2012-05-25T00:00:00Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/dungeon_preview.jar",
+        "size": 914163
+      }
+    },
+    {
+      "section": "minicraftplus",
+      "id": "minicraftplus_pre1.5_Test",
+      "version_type": "beta",
+      "releaseTime": "2012-05-24T21:27:00Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/pre1.5_Test.jar",
+        "size": 914163
+      }
+    },
+    {
+      "section": "minicraftsquared",
+      "id": "minicraftsquared_1.0.0",
+      "version_type": "release",
+      "releaseTime": "2021-11-01T11:09:53Z",
+      "client": {
+        "url": "https://github.com/pelletsstarPL/Minicraft-squared/releases/download/minicraftMod/minicraft_square.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftsquared/1.0.0.jar",
+        "size": 4759805
+      }
+    },
+    {
+      "section": "minicraftsquared",
+      "id": "minicraftsquared_1.1.0",
+      "version_type": "release",
+      "releaseTime": "2021-11-11T11:04:51Z",
+      "client": {
+        "url": "https://github.com/pelletsstarPL/Minicraft-squared/releases/download/v1.1/minicraft_square-1.1.0.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftsquared/1.1.0.jar",
+        "size": 4770473
+      }
+    },
+    {
+      "section": "minicraftsquared",
+      "id": "minicraftsquared_1.2.0",
+      "version_type": "release",
+      "releaseTime": "2021-11-27T11:01:44Z",
+      "client": {
+        "url": "https://github.com/pelletsstarPL/Minicraft-squared/releases/download/v1.2/minicraft_square-1.2.0.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftsquared/1.2.0.jar",
+        "size": 5515282
+      }
+    },
+    {
+      "section": "minicraftsquared",
+      "id": "minicraftsquared_1.4.0",
+      "version_type": "release",
+      "releaseTime": "2021-11-27T11:01:44Z",
+      "client": {
+        "url": "https://github.com/pelletsstarPL/Minicraft-squared/releases/download/v1.4/minicraft_square-1.4.0.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftsquared/1.4.0.jar",
+        "size": 5763721
+      }
+    },
+    {
+      "section": "minicraftsquared",
+      "id": "minicraftsquared_1.5.0",
+      "version_type": "release",
+      "releaseTime": "2022-01-14T17:56:36Z",
+      "client": {
+        "url": "https://github.com/pelletsstarPL/Minicraft-squared/releases/download/v1.5/minicraft_square-1.5.0.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftsquared/1.5.0.jar",
+        "size": 5774701
+      }
+    },
+    {
+      "section": "minicraftsquared",
+      "id": "minicraftsquared_1.6.0",
+      "version_type": "release",
+      "releaseTime": "2022-02-01T18:50:46Z",
+      "client": {
+        "url": "https://github.com/pelletsstarPL/Minicraft-squared/releases/download/v1.6/minicraft_square-1.6.0.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftsquared/1.6.0.jar",
+        "size": 5790773
+      }
+    },
+    {
+      "section": "minicraftsquared",
+      "id": "minicraftsquared_1.7.0",
+      "version_type": "release",
+      "releaseTime": "2022-02-18T17:59:34Z",
+      "client": {
+        "url": "https://github.com/pelletsstarPL/Minicraft-squared/releases/download/v1.7/minicraft_square-1.7.0.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftsquared/1.7.0.jar",
+        "size": 5809824
+      }
+    },
+    {
+      "section": "minicraftsquared",
+      "id": "minicraftsquared_1.8.0",
+      "version_type": "release",
+      "releaseTime": "2022-03-12T13:40:37Z",
+      "client": {
+        "url": "https://github.com/pelletsstarPL/Minicraft-squared/releases/download/v1.8/minicraft_square-1.8.0.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftsquared/1.8.0.jar",
+        "size": 7225409
+      }
+    },
+    {
+      "section": "minicraftsquared",
+      "id": "minicraftsquared_1.9.0",
+      "version_type": "release",
+      "releaseTime": "2022-04-01T04:13:39Z",
+      "client": {
+        "url": "https://github.com/pelletsstarPL/Minicraft-squared/releases/download/v1.9/minicraft_square-1.9.0.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftsquared/1.9.0.jar",
+        "size": 7232727
+      }
+    },
+    {
+      "section": "minicraftsquared",
+      "id": "minicraftsquared_2.0.0",
+      "version_type": "release",
+      "releaseTime": "2022-06-01T14:43:36Z",
+      "client": {
+        "url": "https://github.com/pelletsstarPL/Minicraft-squared/releases/download/v2.0/minicraft_square-2.0.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftsquared/2.0.0.jar",
+        "size": 8076023
+      }
+    },
+    {
+      "section": "minicraftsquared",
+      "id": "minicraftsquared_2.1.1",
+      "version_type": "release",
+      "releaseTime": "2022-06-22T06:41:00Z",
+      "client": {
+        "url": "https://github.com/pelletsstarPL/Minicraft-squared/releases/download/v2.1/minicraft_squared-2.1.1.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftsquared/2.1.1.jar",
+        "size": 8087929
+      }
+    },
+    {
+      "section": "minicraftsquared",
+      "id": "minicraftsquared_2.2.2",
+      "version_type": "release",
+      "releaseTime": "2022-07-22T04:33:07Z",
+      "client": {
+        "url": "https://github.com/pelletsstarPL/Minicraft-squared/releases/download/v2.2/minicraft_squared-2.2.2.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftsquared/2.2.2.jar",
+        "size": 8103298
+      }
+    },
+    {
+      "section": "minicraftsquared",
+      "id": "minicraftsquared_2.3.2",
+      "version_type": "release",
+      "releaseTime": "2022-08-24T06:42:03Z",
+      "client": {
+        "url": "https://github.com/pelletsstarPL/Minicraft-squared/releases/download/v2.3/minicraft_squared-2.3.2.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftsquared/2.3.2.jar",
+        "size": 8156726
+      }
+    },
+    {
+      "section": "minicraftsquared",
+      "id": "minicraftsquared_2.4.0",
+      "version_type": "release",
+      "releaseTime": "2022-10-01T06:43:39Z",
+      "client": {
+        "url": "https://github.com/pelletsstarPL/Minicraft-squared/releases/download/v2.4/minicraft_squared-2.4.0.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftsquared/2.4.0.jar",
+        "size": 8057158
+      }
+    },
+    {
+      "section": "minicraftsquared",
+      "id": "minicraftsquared_2.5.0",
+      "version_type": "release",
+      "releaseTime": "2022-10-29T07:56:43Z",
+      "client": {
+        "url": "https://github.com/pelletsstarPL/Minicraft-squared/releases/download/v2.5.0/minicraft_squared-2.5.0.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftsquared/2.5.0.jar",
+        "size": 8036165
+      }
+    },
+    {
+      "section": "minicraftsquared",
+      "id": "minicraftsquared_2.6.1",
+      "version_type": "release",
+      "releaseTime": "2022-12-01T14:58:57Z",
+      "client": {
+        "url": "https://github.com/pelletsstarPL/Minicraft-squared/releases/download/v2.6.0/minicraft_squared-2.6.1.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftsquared/2.6.1.jar",
+        "size": 8053377
+      }
+    },
+    {
+      "section": "minicraftsquared",
+      "id": "minicraftsquared_2.7.0",
+      "version_type": "release",
+      "releaseTime": "2022-12-20T11:59:29Z",
+      "client": {
+        "url": "https://github.com/pelletsstarPL/Minicraft-squared/releases/download/v2.7.0/minicraft_squared-2.7.0.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftsquared/2.7.0.jar",
+        "size": 8076918
+      }
+    },
+    {
+      "section": "standalone",
+      "id": "standalonemod_alecraft",
+      "version_type": "release",
+      "releaseTime": "2011-12-26T00:00:00Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/alecraft.jar",
+        "size": 321094
+      }
+    },
+    {
+      "section": "standalone",
+      "id": "standalonemod_betterminicraft",
+      "version_type": "release",
+      "releaseTime": "2011-12-30T19:09:00Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/betterminicraft.jar",
+        "size": 466608
+      }
+    },
+    {
+      "section": "standalone",
+      "id": "standalonemod_celeixen",
+      "version_type": "release",
+      "releaseTime": "2012-12-21T14:09:00Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/celeixen.jar",
+        "size": 266915
+      }
+    },
+    {
+      "section": "standalone",
+      "id": "standalonemod_creativemode",
+      "version_type": "release",
+      "releaseTime": "2012-01-22T23:08:00Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/creativemode.jar",
+        "size": 267083
+      }
+    },
+    {
+      "section": "standalone",
+      "id": "standalonemod_creeper",
+      "version_type": "release",
+      "releaseTime": "2011-12-23T01:12:00Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/creeper.jar",
+        "size": 493513
+      }
+    },
+    {
+      "section": "standalone",
+      "id": "standalonemod_extended",
+      "version_type": "release",
+      "releaseTime": "2017-03-16T18:10:00Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/extended.jar",
+        "size": 310260
+      }
+    },
+    {
+      "section": "standalone",
+      "id": "standalonemod_frostgiants",
+      "version_type": "release",
+      "releaseTime": "2013-02-28T20:37:00Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/frostgiants.jar",
+        "size": 289513
+      }
+    },
+    {
+      "section": "standalone",
+      "id": "standalonemod_godmode",
+      "version_type": "release",
+      "releaseTime": "2012-01-22T19:12:00Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/godmode.jar",
+        "size": 189275
+      }
+    },
+    {
+      "section": "standalone",
+      "id": "standalonemod_hackcraft",
+      "version_type": "release",
+      "releaseTime": "2012-01-28T23:23:00Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/hackcraft.jar",
+        "size": 270395
+      }
+    },
+    {
+      "section": "standalone",
+      "id": "standalonemod_happycraft",
+      "version_type": "release",
+      "releaseTime": "2011-12-24T16:12:00Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/happycraft.jar",
+        "size": 186180
+      }
+    },
+    {
+      "section": "standalone",
+      "id": "standalonemod_macrocraft",
+      "version_type": "release",
+      "releaseTime": "2012-08-09T00:39:00Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/macrocraft.jar",
+        "size": 286666
+      }
+    },
+    {
+      "section": "standalone",
+      "id": "standalonemod_magic",
+      "version_type": "release",
+      "releaseTime": "2011-12-23T01:21:00Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/magic.jar",
+        "size": 268050
+      }
+    },
+    {
+      "section": "standalone",
+      "id": "standalonemod_minicommands",
+      "version_type": "release",
+      "releaseTime": "2013-01-07T18:34:00Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/minicommands.jar",
+        "size": 282594
+      }
+    },
+    {
+      "section": "standalone",
+      "id": "standalonemod_minicraft-fly",
+      "version_type": "release",
+      "releaseTime": "2012-01-05T00:00:00Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/minicraft-fly.jar",
+        "size": 270328
+      }
+    },
+    {
+      "section": "standalone",
+      "id": "standalonemod_minicraftce",
+      "version_type": "release",
+      "releaseTime": "2011-12-23T21:44:00Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/minicraftce.jar",
+        "size": 532144
+      }
+    },
+    {
+      "section": "standalone",
+      "id": "standalonemod_minicraftci",
+      "version_type": "release",
+      "releaseTime": "2012-02-03T16:21:00Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/minicraftci.jar",
+        "size": 291885
+      }
+    },
+    {
+      "section": "standalone",
+      "id": "standalonemod_minicraftmo",
+      "version_type": "release",
+      "releaseTime": "2012-06-16T12:14:00Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/minicraftmo.jar",
+        "size": 463528
+      }
+    },
+    {
+      "section": "standalone",
+      "id": "standalonemod_minicrafttextures",
+      "version_type": "release",
+      "releaseTime": "2013-01-16T21:48:00Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/minicrafttextures.jar",
+        "size": 288342
+      }
+    },
+    {
+      "section": "standalone",
+      "id": "standalonemod_minicraftx",
+      "version_type": "release",
+      "releaseTime": "2018-01-31T14:59:00Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/minicraftx.jar",
+        "size": 297160
+      }
+    },
+    {
+      "section": "standalone",
+      "id": "standalonemod_minicraft_delux",
+      "version_type": "release",
+      "releaseTime": "2012-02-08T23:25:00Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/minicraft_delux.jar",
+        "size": 785339
+      }
+    },
+    {
+      "section": "standalone",
+      "id": "standalonemod_minicraft_rebuild",
+      "version_type": "release",
+      "releaseTime": "2018-02-06T23:11:00Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/minicraft_rebuild.jar",
+        "size": 266574
+      }
+    },
+    {
+      "section": "standalone",
+      "id": "standalonemod_minicrate",
+      "version_type": "release",
+      "releaseTime": "2012-08-25T16:24:00Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/minicrate.jar",
+        "size": 472094
+      }
+    },
+    {
+      "section": "standalone",
+      "id": "standalonemod_miniIsles",
+      "version_type": "release",
+      "releaseTime": "2012-04-15T01:18:00Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/miniIsles.jar",
+        "size": 343705
+      }
+    },
+    {
+      "section": "standalone",
+      "id": "standalonemod_minitextures",
+      "version_type": "release",
+      "releaseTime": "2013-01-01T02:38:00Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/minitextures.jar",
+        "size": 297927
+      }
+    },
+    {
+      "section": "standalone",
+      "id": "standalonemod_moboverload",
+      "version_type": "release",
+      "releaseTime": "2012-06-16T18:33:00Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/moboverload.jar",
+        "size": 463528
+      }
+    },
+    {
+      "section": "standalone",
+      "id": "standalonemod_resizable",
+      "version_type": "release",
+      "releaseTime": "2011-12-21T18:18:00Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/resizable.jar",
+        "size": 255423
+      }
+    },
+    {
+      "section": "standalone",
+      "id": "standalonemod_respawn",
+      "version_type": "release",
+      "releaseTime": "2011-12-19T05:12:00Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/respawn.jar",
+        "size": 311753
+      }
+    },
+    {
+      "section": "standalone",
+      "id": "standalonemod_saveandload",
+      "version_type": "release",
+      "releaseTime": "2013-02-02T01:16:00Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/saveandload.jar",
+        "size": 291947
+      }
+    },
+    {
+      "section": "standalone",
+      "id": "standalonemod_shroomycraft",
+      "version_type": "release",
+      "releaseTime": "2012-07-24T16:22:00Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/shroomycraft.jar",
+        "size": 185912
+      }
+    },
+    {
+      "section": "unitycraft",
+      "id": "unitycraft_0.0.1",
+      "version_type": "release",
+      "releaseTime": "2022-10-11T14:29:30Z",
+      "client": {
+        "android": {
+          "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/unitycraft/0.0.1-android.apk",
+          "size": 20080379
+        },
+        "windows_x86": {
+          "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/unitycraft/0.0.1-windows_x86.zip",
+          "size": 21119052
+        },
+        "windows_x64": {
+          "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/unitycraft/0.0.1-windows_x64.zip",
+          "size": 24156331
+        },
+        "linux": {
+          "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/unitycraft/0.0.1-linux.tar.gz",
+          "size": 37777985
+        }
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_a1.1",
+      "version_type": "release",
+      "releaseTime": "2019-06-25T01:27:47Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v2.1.1/miniventure-2.1.1.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/a1.1.jar",
+        "size": 18229627
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_a1.2",
+      "version_type": "release",
+      "releaseTime": "2019-05-30T01:46:45Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v2.1.2/miniventure-2.1.2.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/a1.2.jar",
+        "size": 18223400
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_a2.1",
+      "version_type": "release",
+      "releaseTime": "2020-01-31T01:00:01Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v2.2.1/miniventure-2.2.1.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/a2.1.jar",
+        "size": 18333106
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_a2.2",
+      "version_type": "release",
+      "releaseTime": "2020-08-18T02:42:41Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v2.2.2/miniventure-2.2.2.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/a2.2.jar",
+        "size": 18356981
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.0-pre1",
+      "version_type": "release",
+      "releaseTime": "2017-11-26T06:26:04Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.0.0/miniventure-1.0.0.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.0-pre1.jar",
+        "size": 12695753
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.0-pre2",
+      "version_type": "release",
+      "releaseTime": "2017-12-12T00:58:06Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.0.2/miniventure-1.0.2.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.0-pre2.jar",
+        "size": 12709587
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.0-pre3",
+      "version_type": "release",
+      "releaseTime": "2017-12-14T05:53:18Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.0.3/miniventure-1.0.3.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.0-pre3.jar",
+        "size": 11629130
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.0-pre4",
+      "version_type": "release",
+      "releaseTime": "2017-12-15T05:18:28Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.0.4/miniventure-1.0.4.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.0-pre4.jar",
+        "size": 11631870
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.0-pre5",
+      "version_type": "release",
+      "releaseTime": "2017-12-15T21:22:31Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.0.5/miniventure-1.0.5.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.0-pre5.jar",
+        "size": 11640706
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.0-pre6",
+      "version_type": "release",
+      "releaseTime": "2018-01-08T23:14:06Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.0.6/miniventure-1.0.6.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.0-pre6.jar",
+        "size": 11649081
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.0-pre7",
+      "version_type": "release",
+      "releaseTime": "2018-01-10T05:38:51Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.0.7/miniventure-1.0.7.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.0-pre7.jar",
+        "size": 11657180
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.0-pre8",
+      "version_type": "release",
+      "releaseTime": "2018-01-15T01:12:01Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.0.8/miniventure-1.0.8.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.0-pre8.jar",
+        "size": 11669544
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.0.1",
+      "version_type": "release",
+      "releaseTime": "2017-12-08T05:30:11Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.0.1/miniventure-1.0.1.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.0.1.jar",
+        "size": 12709587
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.0",
+      "version_type": "release",
+      "releaseTime": "2018-01-15T21:20:23Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.0/miniventure-1.0.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.0.jar",
+        "size": 11669542
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.1-pre1",
+      "version_type": "release",
+      "releaseTime": "2018-01-23T05:30:43Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.1.1/miniventure-1.1.1.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.1-pre1.jar",
+        "size": 12507293
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.1-pre2",
+      "version_type": "release",
+      "releaseTime": "2018-01-24T01:12:09Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.1.2/miniventure-1.1.2.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.1-pre2.jar",
+        "size": 12517632
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.1-pre3",
+      "version_type": "release",
+      "releaseTime": "2018-01-30T05:36:43Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.1.3/miniventure-1.1.3.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.1-pre3.jar",
+        "size": 12528956
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.1-pre4",
+      "version_type": "release",
+      "releaseTime": "2018-02-02T15:52:15Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.1.4/miniventure-1.1.4.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.1-pre4.jar",
+        "size": 12531965
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.1-pre5",
+      "version_type": "release",
+      "releaseTime": "2018-02-05T22:48:31Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.1.5/miniventure-1.1.5.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.1-pre5.jar",
+        "size": 12535839
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.1-pre6",
+      "version_type": "release",
+      "releaseTime": "2018-02-06T05:29:33Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.1.6/miniventure-1.1.6.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.1-pre6.jar",
+        "size": 12537886
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.1-pre7",
+      "version_type": "release",
+      "releaseTime": "2018-02-07T01:12:16Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.1.7/miniventure-1.1.7.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.1-pre7.jar",
+        "size": 12538941
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.1",
+      "version_type": "release",
+      "releaseTime": "2018-02-07T15:44:30Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.1/miniventure-1.1.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.1.jar",
+        "size": 12538759
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.2-pre1",
+      "version_type": "release",
+      "releaseTime": "2018-02-11T02:47:21Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.2.1/miniventure-1.2.1.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.2-pre1.jar",
+        "size": 12594126
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.2-pre2",
+      "version_type": "release",
+      "releaseTime": "2018-02-22T05:20:57Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.2.2/miniventure-1.2.2.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.2-pre2.jar",
+        "size": 12601946
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.2-pre3",
+      "version_type": "release",
+      "releaseTime": "2018-02-23T01:17:29Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.2.3/miniventure-1.2.3.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.2-pre3.jar",
+        "size": 12607780
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.2-pre4",
+      "version_type": "release",
+      "releaseTime": "2018-02-23T05:56:46Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.2.4/miniventure-1.2.4.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.2-pre4.jar",
+        "size": 12614009
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.2-pre5",
+      "version_type": "release",
+      "releaseTime": "2018-02-24T03:01:09Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.2.5/miniventure-1.2.5.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.2-pre5.jar",
+        "size": 12620436
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.2-pre6",
+      "version_type": "release",
+      "releaseTime": "2018-02-25T02:54:22Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.2.6/miniventure-1.2.6.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.2-pre6.jar",
+        "size": 12624723
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.2",
+      "version_type": "release",
+      "releaseTime": "2018-02-25T04:56:18Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.2/miniventure-1.2.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.2.jar",
+        "size": 12624807
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.3-pre1",
+      "version_type": "release",
+      "releaseTime": "2018-03-01T23:59:05Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.3.1/miniventure-1.3.1.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.3-pre1.jar",
+        "size": 12624807
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.3-pre2",
+      "version_type": "release",
+      "releaseTime": "2018-03-26T23:53:51Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.3.2/miniventure-1.3.2.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.3-pre2.jar",
+        "size": 13622808
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.3-pre3",
+      "version_type": "release",
+      "releaseTime": "2018-03-27T04:00:18Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.3.3/miniventure-1.3.3.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.3-pre3.jar",
+        "size": 13625353
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.3-pre4",
+      "version_type": "release",
+      "releaseTime": "2018-03-28T02:45:34Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.3.4/miniventure-1.3.4.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.3-pre4.jar",
+        "size": 13628404
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.3-pre5",
+      "version_type": "release",
+      "releaseTime": "2018-03-30T04:19:14Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.3.5/miniventure-1.3.5.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.3-pre5.jar",
+        "size": 13639232
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.3-pre6",
+      "version_type": "release",
+      "releaseTime": "2018-04-03T04:46:02Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.3.6/miniventure-1.3.6.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.3-pre6.jar",
+        "size": 13656142
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.3-pre7",
+      "version_type": "release",
+      "releaseTime": "2018-04-04T02:50:05Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.3.7/miniventure-1.3.7.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.3-pre7.jar",
+        "size": 13667675
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.3-pre8",
+      "version_type": "release",
+      "releaseTime": "2018-04-05T04:44:45Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.3.8/miniventure-1.3.8.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.3-pre8.jar",
+        "size": 13674426
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.3-pre9",
+      "version_type": "release",
+      "releaseTime": "2018-04-06T03:24:35Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.3.9/miniventure-1.3.9.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.3-pre9.jar",
+        "size": 13678972
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.3",
+      "version_type": "release",
+      "releaseTime": "2018-04-15T08:20:04Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.3/miniventure-1.3.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.3.jar",
+        "size": 13683974
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.4-pre1",
+      "version_type": "release",
+      "releaseTime": "2018-04-16T01:06:51Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.4.1/miniventure-1.4.1.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.4-pre1.jar",
+        "size": 26499288
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.4-pre2",
+      "version_type": "release",
+      "releaseTime": "2018-04-17T03:22:54Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.4.2/miniventure-1.4.2.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.4-pre2.jar",
+        "size": 16041004
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.4-pre3",
+      "version_type": "release",
+      "releaseTime": "2018-04-26T23:23:33Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.4.3/miniventure-1.4.3.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.4-pre3.jar",
+        "size": 16051232
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.4-pre4",
+      "version_type": "release",
+      "releaseTime": "2018-05-05T23:11:23Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.4.4/miniventure-1.4.4.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.4-pre4.jar",
+        "size": 16056138
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.4-pre5",
+      "version_type": "release",
+      "releaseTime": "2018-05-06T05:24:52Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.4.5/miniventure-1.4.5.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.4-pre5.jar",
+        "size": 16057224
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.4-pre6",
+      "version_type": "release",
+      "releaseTime": "2018-05-09T04:59:28Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.4.6/miniventure-1.4.6.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.4-pre6.jar",
+        "size": 16058221
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.4-pre7",
+      "version_type": "release",
+      "releaseTime": "2018-05-09T19:42:07Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.4.7/miniventure-1.4.7.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.4-pre7.jar",
+        "size": 16061270
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.4",
+      "version_type": "release",
+      "releaseTime": "2018-05-13T04:32:59Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.4.8/miniventure-1.4.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.4.jar",
+        "size": 16063608
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.5-pre6",
+      "version_type": "release",
+      "releaseTime": "2018-11-26T02:59:20Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.5.6/miniventure-1.5.6.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.5-pre6.jar",
+        "size": 18059236
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.5-pre1",
+      "version_type": "release",
+      "releaseTime": "2018-06-28T23:36:20Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.5.1/miniventure-1.5.1.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.5-pre1.jar",
+        "size": 17960698
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.5-pre2",
+      "version_type": "release",
+      "releaseTime": "2018-07-05T06:01:01Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.5.2/miniventure-1.5.2.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.5-pre2.jar",
+        "size": 17984361
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.5-pre3",
+      "version_type": "release",
+      "releaseTime": "2018-07-06T23:55:58Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.5.3/miniventure-1.5.3.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.5-pre3.jar",
+        "size": 17976002
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.5-pre4",
+      "version_type": "release",
+      "releaseTime": "2018-07-18T17:27:59Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.5.4/miniventure-1.5.4.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.5-pre4.jar",
+        "size": 17979736
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.5-pre5",
+      "version_type": "release",
+      "releaseTime": "2018-11-25T04:50:26Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.5.5/miniventure-1.5.5.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.5-pre5.jar",
+        "size": 18037631
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.5-pre7",
+      "version_type": "release",
+      "releaseTime": "2018-12-12T06:45:52Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.5.7/miniventure-1.5.7.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.5-pre7.jar",
+        "size": 18074689
+      }
+    },
+    {
+      "section": "miniadventure",
+      "id": "miniventure_pa-1.5",
+      "version_type": "release",
+      "releaseTime": "2018-12-13T19:35:16Z",
+      "client": {
+        "url": "https://github.com/chrisj42/miniventure/releases/download/v1.5.8/miniventure-1.5.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.5.jar",
+        "size": 18073559
+      }
+    },
+    {
+      "section": "standalone",
+      "id": "microcraft_1.0",
+      "version_type": "release",
+      "releaseTime": "2020-08-10T22:22:00Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/microcraft/1.0.jar",
+        "size": 445321
+      }
+    },
+    {
+      "section": "megacraft",
+      "id": "megacraft_0.4.2",
+      "version_type": "release",
+      "releaseTime": "2012-01-02T21:40:00Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/megacraft/0.4.2.jar",
+        "size": 735922
+      }
+    },
+    {
+      "section": "megacraft",
+      "id": "megacraft_0.4.3",
+      "version_type": "release",
+      "releaseTime": "2012-01-04T13:24:00Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/megacraft/0.4.3.jar",
+        "size": 743031
+      }
+    },
+    {
+      "section": "infinitytale",
+      "id": "infinitytale_1.0.0",
+      "version_type": "release",
+      "releaseTime": "2012-01-22T15:50:00Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/infinitytale/1.0.0.jar",
+        "size": 887494
+      }
+    },
+    {
+      "section": "infinitytale",
+      "id": "infinitytale_1.1.0",
+      "version_type": "release",
+      "releaseTime": "2012-05-24T13:47:00Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/infinitytale/1.1.0.jar",
+        "size": 1053106
+      }
+    },
+    {
+      "section": "cthulhucraft",
+      "id": "cthulhucraft_0.02a",
+      "version_type": "release",
+      "releaseTime": "2020-08-10T13:30:21Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/cthulhucraft/0.02a.jar",
+        "size": 3743426
+      }
+    },
+    {
+      "section": "cthulhucraft",
+      "id": "cthulhucraft_0.03a",
+      "version_type": "release",
+      "releaseTime": "2020-08-10T14:53:12Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/cthulhucraft/0.03a.jar",
+        "size": 3743508
+      }
+    },
+    {
+      "section": "cthulhucraft",
+      "id": "cthulhucraft_0.04a",
+      "version_type": "release",
+      "releaseTime": "2020-08-10T15:21:04Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/cthulhucraft/0.04a.jar",
+        "size": 3743543
+      }
+    },
+    {
+      "section": "cthulhucraft",
+      "id": "cthulhucraft_0.05",
+      "version_type": "release",
+      "releaseTime": "2021-01-13T20:16:48Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/cthulhucraft/0.05.jar",
+        "size": 80999982
+      }
+    },
+    {
+      "section": "cthulhucraft",
+      "id": "cthulhucraft_0.05_1a",
+      "version_type": "release",
+      "releaseTime": "2020-09-07T10:08:26Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/cthulhucraft/0.05_1a.jar",
+        "size": 3801206
+      }
+    },
+    {
+      "section": "cthulhucraft",
+      "id": "cthulhucraft_0.05_2a",
+      "version_type": "release",
+      "releaseTime": "2020-09-18T22:58:56Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/cthulhucraft/0.05_2a.jar",
+        "size": 3813291
+      }
+    },
+    {
+      "section": "cthulhucraft",
+      "id": "cthulhucraft_0.05_3a",
+      "version_type": "release",
+      "releaseTime": "2020-10-23T23:42:48Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/cthulhucraft/0.05_3a.jar",
+        "size": 3863476
+      }
+    },
+    {
+      "section": "aircraft",
+      "id": "aircraft_a1.2.2",
+      "version_type": "release",
+      "releaseTime": "2020-06-04T16:08:34Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/aircraft/a1.2.2.jar",
+        "size": 3337483
+      }
+    },
+    {
+      "section": "aircraft",
+      "id": "aircraft_a1.2.3",
+      "version_type": "release",
+      "releaseTime": "2020-06-07T18:09:40Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/aircraft/a1.2.3.jar",
+        "size": 41953281
+      }
+    },
+    {
+      "section": "aircraft",
+      "id": "aircraft_a1.2.4",
+      "version_type": "release",
+      "releaseTime": "2020-06-10T21:31:26Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/aircraft/a1.2.4.jar",
+        "size": 42035424
+      }
+    },
+    {
+      "section": "aircraft",
+      "id": "aircraft_a1.2.5",
+      "version_type": "release",
+      "releaseTime": "2020-06-27T22:49:32Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/aircraft/a1.2.5.jar",
+        "size": 42050133
+      }
+    },
+    {
+      "section": "aircraft",
+      "id": "aircraft_a1.2.5_t",
+      "version_type": "release",
+      "releaseTime": "2020-06-21T03:10:04Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/aircraft/a1.2.5_t.jar",
+        "size": 42047819
+      }
+    },
+    {
+      "section": "aircraft",
+      "id": "aircraft_a1.3",
+      "version_type": "release",
+      "releaseTime": "2020-07-23T14:42:49Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/aircraft/a1.3.jar",
+        "size": 34841883
+      }
+    },
+    {
+      "section": "aircraft",
+      "id": "aircraft_b0.1",
+      "version_type": "release",
+      "releaseTime": "2021-02-04T18:25:25Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/aircraft/b0.1.jar",
+        "size": 54299619
+      }
+    },
+    {
+      "section": "aircraft",
+      "id": "aircraft_b0.2",
+      "version_type": "release",
+      "releaseTime": "2021-02-20T12:34:32Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/aircraft/b0.2.jar",
+        "size": 55459773
+      }
+    },
+    {
+      "section": "aircraft",
+      "id": "aircraft_b0.3",
+      "version_type": "release",
+      "releaseTime": "2021-04-15T20:23:06Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/aircraft/b0.3.jar",
+        "size": 60630647
+      }
+    },
+    {
+      "section": "aircraft",
+      "id": "aircraft_b0.4_1",
+      "version_type": "release",
+      "releaseTime": "2021-09-20T14:30:34Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/aircraft/b0.4_1.jar",
+        "size": 70566973
+      }
+    },
+    {
+      "section": "aircraft",
+      "id": "aircraft_b0.4_2",
+      "version_type": "release",
+      "releaseTime": "2021-12-07T18:38:18Z",
+      "client": {
+        "url": "https://github.com/TheBigEye/Aircraft/releases/download/v0.0.4/Aircraft.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/aircraft/b0.4_2.jar",
+        "size": 70795144
+      }
+    },
+    {
+      "section": "aircraft",
+      "id": "aircraft_b0.5_1",
+      "version_type": "release",
+      "releaseTime": "2022-06-12T15:01:09Z",
+      "client": {
+        "url": "https://github.com/TheBigEye/Aircraft/releases/download/v0.0.5-pre/Aircraft.jar",
+        "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/aircraft/b0.5_1.jar",
+        "size": 71204792
+      }
+    },
+    {
+      "section": "aircraft",
+      "id": "aircraft_b0.5_2",
+      "version_type": "release",
+      "releaseTime": "2024-03-05T13:59:58Z",
+      "client": {
+        "url": "https://github.com/TheBigEye/Aircraft/releases/download/v0.0.5/Aircraft.jar",
+        "size": 73428772
+      }
+    },
+    {
+      "section": "standalone",
+      "id": "minicraftred_1.0.0",
+      "version_type": "release",
+      "releaseTime": "2022-04-24T16:09:03Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftred/1.0.0.jar",
+        "size": 3913133
+      }
+    },
+    {
+      "section": "flatlands",
+      "id": "flatlands_a1.0.8",
+      "version_type": "alpha",
+      "releaseTime": "2024-02-16T22:08:23Z",
+      "client": {
+        "windows_x86": {
+          "url": "https://github.com/GabrielM99/flatlands-updates/releases/download/Alpha-1.0.8/Alpha.1.0.8.zip",
+          "size": 114401474
+        },
+        "windows_x64": {
+          "url": "https://github.com/GabrielM99/flatlands-updates/releases/download/Alpha-1.0.8/Alpha.1.0.8.zip",
+          "size": 114401474
+        }
+      }
+    },
+    {
+      "section": "flatlands",
+      "id": "flatlands_a1.0.7",
+      "version_type": "alpha",
+      "releaseTime": "2023-08-23T18:52:46Z",
+      "client": {
+        "windows_x86": {
+          "url": "https://github.com/GabrielM99/flatlands-updates/releases/download/Alpha-1.0.7/Flatlands.zip",
+          "size": 114382291
+        },
+        "windows_x64": {
+          "url": "https://github.com/GabrielM99/flatlands-updates/releases/download/Alpha-1.0.7/Flatlands.zip",
+          "size": 114382291
+        }
+      }
+    },
+    {
+      "section": "flatlands",
+      "id": "flatlands_a1.0.6",
+      "version_type": "alpha",
+      "releaseTime": "2023-05-07T02:00:48Z",
+      "client": {
+        "windows_x86": {
+          "url": "https://github.com/GabrielM99/flatlands-updates/releases/download/Alpha-1.0.6/Flatlands.zip",
+          "size": 111329088
+        },
+        "windows_x64": {
+          "url": "https://github.com/GabrielM99/flatlands-updates/releases/download/Alpha-1.0.6/Flatlands.zip",
+          "size": 111329088
+        }
+      }
+    },
+    {
+      "section": "flatlands",
+      "id": "flatlands_a1.0.5",
+      "version_type": "alpha",
+      "releaseTime": "2023-01-01T00:00:00Z",
+      "client": {
+        "windows_x86": {
+          "url": "https://github.com/GabrielM99/flatlands-updates/releases/download/Alpha-1.0.5/FlatlandsAlpha1.0.5.zip",
+          "size": 111332774
+        },
+        "windows_x64": {
+          "url": "https://github.com/GabrielM99/flatlands-updates/releases/download/Alpha-1.0.5/FlatlandsAlpha1.0.5.zip",
+          "size": 111332774
+        }
+      }
+    },
+    {
+      "section": "flatlands",
+      "id": "flatlands_a1.0.4",
+      "version_type": "alpha",
+      "releaseTime": "2023-01-01T00:00:00Z",
+      "client": {
+        "windows_x86": {
+          "url": "https://github.com/GabrielM99/flatlands-updates/releases/download/Alpha-1.0.4/FlatlandsAlpha1.0.4.zip",
+          "size": 111331996
+        },
+        "windows_x64": {
+          "url": "https://github.com/GabrielM99/flatlands-updates/releases/download/Alpha-1.0.4/FlatlandsAlpha1.0.4.zip",
+          "size": 111331996
+        }
+      }
+    },
+    {
+      "section": "original",
+      "id": "minicraft_original",
+      "version_type": "release",
+      "releaseTime": "2011-12-19T01:45:00Z",
+      "client": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraft/original.jar",
+        "size": 182203
+      }
+    }
+  ]
+}

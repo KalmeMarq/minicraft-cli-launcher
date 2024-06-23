@@ -1,0 +1,9 @@
+.vscode
+installations
+jre
+libs
+libs
+versions/**/*
+!versions/version_manifest.json
+
+.DS_Store
